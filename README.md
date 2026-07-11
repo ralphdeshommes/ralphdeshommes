@@ -16,9 +16,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ralphdeshommes1@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Phone-561--562--0812-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://github.com/ralphdeshommes" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:5615620812" target="blank">
+    <img src="https://img.shields.io/badge/561--562--0812-000000?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -27,34 +32,6 @@
 
 **Florida Atlantic University** — B.S. in Computer Science *(Expected Aug 2027)*
 Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data Structures & Algorithms, Machine Learning, Applied Cryptography and Security
-
----
-
-### 💼 Experience
-
-**Software Engineer Intern — Givelify** *(May 2024 – Aug 2025, Remote)*
-- Worked within the Fraud/IT Operations team using Datadog, SQL, and internal dashboards to monitor system performance and support incident response — cutting average issue resolution time by 25%
-- Collaborated cross-functionally with Fraud, HR, and IT teams on departmental projects
-- Contributed to code reviews, documentation, and testing to reinforce best practices and improve code quality
-
----
-
-### 🛠️ Featured Projects
-
-- **[IP Address Lookup](#)** — *PHP, Laravel, Filament, Blade, Herd, SQL*
-  Built an admin-panel IP lookup system to cross-verify client locations with IP data, boosting fraud detection accuracy by 35% and cutting manual review time by 40%.
-
-- **[New Hire Onboarding Automation](#)** — *Power Automate, Power Fx, Word, Excel, SharePoint*
-  Automated onboarding workflows end-to-end, reducing manual intervention/errors by 40% and improving data accuracy by 35%.
-
-- **[Bad Word Detection on Client Website](#)** — *Python*
-  Built a Python-based moderation tool to flag inappropriate language, boosting compliance accuracy by 35% and cutting manual review effort by 40%.
-
-- **[Datadog APM & VPM Error Rate Monitoring](#)** — *Python, Datadog*
-  Built automated scripts to track error rates and trigger APM alerts when thresholds exceed 5%, improving proactive monitoring and system reliability.
-
-- **[Givesync — Internal Slack Standup Bot](#)** — *Python, PHP, MySQL, Alembic, Laravel, Herd*
-  Built an internal Slack bot automating daily standups with a Filament-based admin dashboard for company-wide visibility — improved cross-team accountability by 35% and saved $10K+/year in third-party subscription costs.
 
 ---
 
