@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ralph 👋
 
-<!--
-**ralphdeshommes/ralphdeshommes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I enjoy building clean, useful software
+- 🌱 Always learning and improving
+- 🤝 Open to collaboration on interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Work With
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032)
+
+## 📫 Contact
+- Reach me on GitHub: [@ralphdeshommes](https://github.com/ralphdeshommes)
