@@ -1,9 +1,13 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ralph Deshommes</h1>
-<h3 align="center">Software Engineer | Fraud/IT Ops @ Givelify | Python, PHP & Automation</h3>
+<h3 align="center">Software Engineer | Computer Science @ FAU</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ralph;Computer+Science+%40+FAU;Software+Engineer+Intern+%40+Givelify;Automation+%2B+Fraud+Detection+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ralph;Computer+Science+%40+FAU;Software+Engineer+Intern+%40+Givelify" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +25,7 @@
 
 ### 🎓 Education
 
-**Florida Atlantic University** — B.S. in Computer Science *(Expected Aug 2026)*
+**Florida Atlantic University** — B.S. in Computer Science *(Expected Aug 2027)*
 Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data Structures & Algorithms, Machine Learning, Applied Cryptography and Security
 
 ---
@@ -56,8 +60,19 @@ Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data 
 
 ### 🤝 Activities & Leadership
 
-- **NSBE** — Team Member *(Jan 2024 – Present)*, Boca Raton, FL
-- **Coding with Doctors** — Team Member *(Aug 2022 – Aug 2024)*, Lake Worth, FL — ran beginner coding workshops, helped 5+ members ship projects
+<p align="left">
+  <img src="https://img.shields.io/badge/NSBE-Team%20Member-1F6FEB?style=for-the-badge&logo=nationalgeographic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jan%202024%20--%20Present-Boca%20Raton%2C%20FL-lightgrey?style=for-the-badge" />
+</p>
+
+> Helping grow the number of culturally responsible Black engineers who excel academically, succeed professionally, and give back to their communities.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Coding%20with%20Doctors-Team%20Member-2EA44F?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aug%202022%20--%20Aug%202024-Lake%20Worth%2C%20FL-lightgrey?style=for-the-badge" />
+</p>
+
+> Ran beginner coding workshops and mentored peers through hands-on challenges — helped 5+ members ship and launch their own projects.
 
 ---
 
@@ -82,14 +97,16 @@ Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralphdeshommes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdeshommes&layout=compact&theme=tokyonight" />
-</p>
+<img align="left" alt="Ralph's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ralphdeshommes&show_icons=true&theme=tokyonight" width="49%" />
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdeshommes&layout=compact&theme=tokyonight" width="46%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ralphdeshommes&theme=tokyonight" />
-</p>
+<br clear="both">
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ralphdeshommes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ralphdeshommes&theme=tokyonight&column=7&margin-w=10" />
@@ -99,13 +116,17 @@ Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data 
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ralphdeshommes/ralphdeshommes/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ralphdeshommes/ralphdeshommes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-<!-- Requires the GitHub Actions snake.yml workflow in .github/workflows/ -->
+<!-- This only renders once your own snake.yml workflow has run successfully — see setup steps below -->
 
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ralphdeshommes&label=Profile%20Views&color=0e75b6&style=flat" alt="Ralph Deshommes" />
