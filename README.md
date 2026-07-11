@@ -18,20 +18,23 @@
   <a href="mailto:ralphdeshommes1@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ralphdeshommes" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="tel:5615620812" target="blank">
-    <img src="https://img.shields.io/badge/561--562--0812-000000?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🎓 Education
+### 👨🏽‍💻 About Me
 
-**Florida Atlantic University** — B.S. in Computer Science *(Expected Aug 2027)*
-Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data Structures & Algorithms, Machine Learning, Applied Cryptography and Security
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
+</p>
+
+- 🎓 On track to be the **first in my family to earn a college degree** — pursuing a B.S. in Computer Science, expected **August 2027**
+- 💪 Every step of this has been earned from the ground up — I've worked hard to build my skills and open doors that weren't already open for me
+- 💼 Software Engineer Intern at **Givelify**, gaining hands-on experience with real systems, tools, and teams
+- 🛠️ I like building practical tools — from internal automation scripts to admin-panel systems and Slack bots that solve real workflow problems
+- 🤝 Active in **NSBE**, and I make it a point to show up to hackathons and tech events whenever I can to keep learning and connecting with other engineers
+- 🌱 Always looking to pick up new tools and sharpen what I already know
+- 💬 Feel free to reach out — happy to talk tech, collaborate, or just connect
 
 ---
 
@@ -39,17 +42,27 @@ Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data 
 
 <p align="left">
   <img src="https://img.shields.io/badge/NSBE-Team%20Member-1F6FEB?style=for-the-badge&logo=nationalgeographic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jan%202024%20--%20Present-Boca%20Raton%2C%20FL-lightgrey?style=for-the-badge" />
 </p>
 
 > Helping grow the number of culturally responsible Black engineers who excel academically, succeed professionally, and give back to their communities.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Coding%20with%20Doctors-Team%20Member-2EA44F?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aug%202022%20--%20Aug%202024-Lake%20Worth%2C%20FL-lightgrey?style=for-the-badge" />
 </p>
 
 > Ran beginner coding workshops and mentored peers through hands-on challenges — helped 5+ members ship and launch their own projects.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ShellHacks-Attendee-FF6F00?style=for-the-badge&logo=hackster&logoColor=white" />
+</p>
+
+> Participated in ShellHacks, one of the largest student-run hackathons in the country, collaborating with other developers on a team project under time constraints.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Event-Attendee-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+> Attended a Microsoft event to connect with engineers and learn more about industry tools, career paths, and opportunities.
 
 ---
 
@@ -57,12 +70,12 @@ Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data 
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,go,swift,php,html,css" />
 </p>
 
-**Technologies**
+**Technologies & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,laravel,bootstrap,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,laravel,bootstrap,mongodb,mysql,postgres,supabase,redis,kafka" />
 </p>
 
 **Developer Tools**
@@ -74,20 +87,11 @@ Coursework: Python Programming, Object-Oriented Design, Foundations of CS, Data 
 
 ### 📊 GitHub Stats
 
-<img align="left" alt="Ralph's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ralphdeshommes&show_icons=true&theme=tokyonight" width="49%" />
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdeshommes&layout=compact&theme=tokyonight" width="46%" />
-
-<br clear="both">
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ralphdeshommes&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ralphdeshommes&theme=tokyonight&column=7&margin-w=10" />
-</p>
 
 ---
 
