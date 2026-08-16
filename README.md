@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ralph Deshommes</h1>
-<h3 align="center">Software Engineer | Computer Science @ FAU</h3>
+<h3 align="center">Upcoming Software Engineer | Computer Science @ FAU</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -22,23 +22,17 @@
 
 ---
 
-### 👨🏽‍💻 About Me
+### About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
-</p>
-
-- 🎓 On track to be the **first in my family to earn a college degree** — pursuing a B.S. in Computer Science, expected **August 2027**
-- 💪 Every step of this has been earned from the ground up — I've worked hard to build my skills and open doors that weren't already open for me
-- 💼 Software Engineer Intern at **Givelify**, gaining hands-on experience with real systems, tools, and teams
-- 🛠️ I like building practical tools — from internal automation scripts to admin-panel systems and Slack bots that solve real workflow problems
-- 🤝 Active in **NSBE**, and I make it a point to show up to hackathons and tech events whenever I can to keep learning and connecting with other engineers
-- 🌱 Always looking to pick up new tools and sharpen what I already know
-- 💬 Feel free to reach out — happy to talk tech, collaborate, or just connect
+- First in my family pursuing a college degree, working toward a B.S. in Computer Science at FAU, expected **May 2027**
+- Software Engineer Intern at **Givelify** for two summers, building internal tools and automation systems used across the engineering team
+- Active member of **NSBE**, and I like showing up to hackathons and tech events to keep learning
+- Currently deepening my skills in machine learning and automation
+- Feel free to reach out. Happy to talk tech, collaborate, or just connect
 
 ---
 
-### 🤝 Activities & Leadership
+### Activities & Leadership
 
 <p align="left">
   <img src="https://img.shields.io/badge/NSBE-Team%20Member-1F6FEB?style=for-the-badge&logo=nationalgeographic&logoColor=white" />
@@ -47,26 +41,14 @@
 > Helping grow the number of culturally responsible Black engineers who excel academically, succeed professionally, and give back to their communities.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Coding%20with%20Doctors-Team%20Member-2EA44F?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-> Ran beginner coding workshops and mentored peers through hands-on challenges — helped 5+ members ship and launch their own projects.
-
-<p align="left">
   <img src="https://img.shields.io/badge/ShellHacks-Attendee-FF6F00?style=for-the-badge&logo=hackster&logoColor=white" />
 </p>
 
 > Participated in ShellHacks, one of the largest student-run hackathons in the country, collaborating with other developers on a team project under time constraints.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Event-Attendee-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-> Attended a Microsoft event to connect with engineers and learn more about industry tools, career paths, and opportunities.
-
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 <p align="left">
@@ -75,7 +57,7 @@
 
 **Technologies & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,laravel,bootstrap,mongodb,mysql,postgres,supabase,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,laravel,mongodb,mysql,postgres,supabase,redis" />
 </p>
 
 **Developer Tools**
@@ -85,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -95,7 +77,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ralphdeshommes/ralphdeshommes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
